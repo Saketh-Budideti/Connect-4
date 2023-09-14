@@ -1,4 +1,4 @@
-// Created by A-K-Erol and Saketh-Budideti
+// Created by Saketh-Budideti and Ansel-K-Erol
 
 #include <stdio.h>
 #include <limits.h> // for INT_MAX and INT_MIN
